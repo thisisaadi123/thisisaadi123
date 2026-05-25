@@ -1,5 +1,9 @@
-## Hi there 👋
-
+# R Aadithya Mouli. CSE student at IIIT Sri City.
+* Building GridOps AI—pitting Amazon's Chronos-2 against SARIMAX to predict energy grid demands, just to see if we can outsmart the baseline[cite: 1].
+* Love anything and everything involving data and analysis
+* When I'm not staring at a terminal, I'm probably blowing off steam at the table tennis tables or watching Premier League.
+* Love meeting new people, bouncing crazy ideas around, and actually building them. <3
+* You can find me on [LinkedIn](https://www.linkedin.com/in/aadithya-mouli-127334314/), [Hugging Face](https://huggingface.co/thisisaadi123), [LeetCode](https://leetcode.com/u/aadithya.001)[cite: 1], or [Instagram](https://www.instagram.com/aadithya_001/).or email me - aadithyamouli.r24@iiits.in[cite: 1].
 <!--
 **thisisaadi123/thisisaadi123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
