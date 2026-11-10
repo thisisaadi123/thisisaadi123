@@ -1,5 +1,5 @@
 # R Aadithya Mouli. CSE student at IIIT Sri City.
-* Building GridOps AI—pitting Amazon's Chronos-2 against SARIMAX to predict energy grid demands, just to see if we can outsmart the baseline
+* Building Cool projects :)
 * Love anything and everything involving data and analysis
 * When I'm not staring at a terminal, I'm probably blowing off steam at the table tennis tables or watching Premier League.
 * Love meeting new people, bouncing crazy ideas around, and actually building them. <3
